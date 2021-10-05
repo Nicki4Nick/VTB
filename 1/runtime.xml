@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Presentation file, saved 10/5/2021 4:00:32 PM using CourseLab 210731 -->
+<module>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<groups>
+</groups>
+<slides>
+<slide id="SLIDE_14" expanded="yes" sid="o" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_16" expanded="yes" dur="5000" infinite="0">
+<object id="IMG_35" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/MyAoMSk_.png">
+<data>
+<![CDATA[<img src="images/MyAoMSk_.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_36" expanded="yes" x="747" y="283" w="613" h="253" z="101" display="frame" begin="0" tranin="7" durin="2.0" preload="images/R3JvdXAgMzY0.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMzY0.png" style="width: 613px; height: 253px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_37" expanded="yes" x="747" y="528" w="613" h="219" z="102" display="frame" begin="5000" tranin="7" durin="2.0" preload="images/R3JvdXAgMzY1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMzY1.png" style="width: 613px; height: 219px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_40" expanded="yes" x="0" y="741" w="1920" h="339" z="103" display="frame" begin="0" preload="images/MyAoMSkgMQ__.png">
+<data>
+<![CDATA[<img src="images/MyAoMSkgMQ__.png" style="width: 1920px; height: 339px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_38" expanded="yes" x="138" y="905" w="220" h="76" z="104" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_38_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="905" w="220" h="76" z="104" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="905" w="220" h="76" z="104" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_38_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_39" expanded="yes" x="1565" y="905" w="220" h="76" z="105" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_39_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="905" w="220" h="76" z="105" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="905" w="220" h="76" z="105" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_39_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<actionboxes>
+<actionbox id="ACTIONBOX_2">
+<RESPONSE name="ACTIONBOX_2_1" event="onload" type="link">
+<SET type="state" fs_object="" objectid="IMG_38" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="disabled" fs_objective="" pid="" fs_score="" oid="" additive="replace" score="0" fs_cs="" cs="c" fs_ss="" ss="u">
+</SET>
+</RESPONSE>
+</actionbox>
+</actionboxes>
+<timeline>
+<timeaction type="display" begin="5000" targetid="IMG_37"/>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_2"/>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_1" expanded="yes" sid="3" masterid="SLIDE_MASTER" advance="" transition="" durout="" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_5" expanded="yes" dur="2000" infinite="0">
+<object id="IMG_3" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/NCAoMSk_.png">
+<data>
+<![CDATA[<img src="images/NCAoMSk_.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_12" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_12_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_12_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_13" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_13_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_13_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_4" expanded="yes" sid="d" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_6" expanded="yes" dur="14900" infinite="0">
+<object id="IMG_4" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/NSAoMik_.png">
+<data>
+<![CDATA[<img src="images/NSAoMik_.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_14" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_14_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_14_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_21" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_21_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_21_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_5" expanded="yes" sid="e" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_7" expanded="yes" dur="15000" infinite="0">
+<object id="IMG_5" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/NiAoMSk_.png">
+<data>
+<![CDATA[<img src="images/NiAoMSk_.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_16" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_16_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_16_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_23" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_23_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_23_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_6" expanded="yes" sid="f" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_8" expanded="yes" dur="15000" infinite="0">
+<object id="IMG_6" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/7.png">
+<data>
+<![CDATA[<img src="images/7.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_18" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_18_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_18_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_25" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_25_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_25_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_8" expanded="yes" sid="g" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_10" expanded="yes" dur="0" infinite="0">
+<object id="IMG_7" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/OCAoMik_.png">
+<data>
+<![CDATA[<img src="images/OCAoMik_.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_20" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_20_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_20_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_27" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_27_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_27_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_9" expanded="yes" sid="h" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_11" expanded="yes" dur="0" infinite="0">
+<object id="IMG_8" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/9.png">
+<data>
+<![CDATA[<img src="images/9.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_22" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_22_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_22_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_29" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_29_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_29_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_10" expanded="yes" sid="i" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_12" expanded="yes" dur="0" infinite="0">
+<object id="IMG_9" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/10.png">
+<data>
+<![CDATA[<img src="images/10.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_24" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_24_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_24_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_30" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_30_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_30_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_11" expanded="yes" sid="m" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_13" expanded="yes" dur="0" infinite="0">
+<object id="IMG_26" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/MTEuMSAoMik_.png">
+<data>
+<![CDATA[<img src="images/MTEuMSAoMik_.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_31" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_31_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_31_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_32" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_32_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_32_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object nodiv="yes" id="SHAPE4" expanded="yes" x="1432" y="738" w="46" h="38" z="103" display="frame" begin="0">
+<data><![CDATA[<div class="cl-shape-box"  cl-offset-x="0" cl-offset-y="0"  style="width: 46px; height: 38px; left: -0px; top: -0px; background-image: url('images/xSHAPE4.png'); background-position: 0 0; background-repeat: no-repeat; cursor: pointer;" onclick="CL.Resp.Process({ respid: 'SHAPE4_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"">&nbsp;</div>]]>
+</data>
+<RESPONSE name="SHAPE4_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<actionboxes>
+<actionbox id="ACTIONBOX_3">
+<RESPONSE name="ACTIONBOX_3_1" event="onload" type="link">
+<SET type="state" fs_object="" objectid="IMG_32" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="disabled" fs_objective="" pid="" fs_score="" oid="" additive="replace" score="0" fs_cs="" cs="c" fs_ss="" ss="u">
+</SET>
+</RESPONSE>
+</actionbox>
+</actionboxes>
+<timeline>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_3"/>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_13" expanded="yes" sid="n" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_14" expanded="yes" dur="0" infinite="0">
+<object id="IMG_28" expanded="yes" x="0" y="0" w="1920" h="1080" z="100" display="frame" begin="0" preload="images/MTEuMSAoMyk_.png">
+<data>
+<![CDATA[<img src="images/MTEuMSAoMyk_.png" style="width: 1920px; height: 1080px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_33" expanded="yes" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/R3JvdXAgMjI2.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI2.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_33_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/G.png">
+<data>
+<![CDATA[<img src="images/G.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="138" y="885" w="220" h="76" z="101" display="frame" begin="0" preload="images/Grou.png">
+<data>
+<![CDATA[<img src="images/Grou.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_33_1" event="onclick" type="link">
+<GOTO option="0" fs_frame="" pid="FRAME_12">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="IMG_34" expanded="yes" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/R3JvdXAgMjI1.png">
+<data>
+<![CDATA[<img src="images/R3JvdXAgMjI1.png" style="width: 220px; height: 76px;border-width: 0px;cursor:pointer;" onclick="CL.Resp.Process({ respid: 'IMG_34_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"/>]]>
+</data>
+<state type="highlighted" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_229.png">
+<data>
+<![CDATA[<img src="images/Group_229.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<state type="disabled" x="1565" y="885" w="220" h="76" z="102" display="frame" begin="0" preload="images/Group_359.png">
+<data>
+<![CDATA[<img src="images/Group_359.png" style="width: 220px; height: 76px;border-width: 0px;"/>]]>
+</data>
+</state>
+<RESPONSE name="IMG_34_1" event="onclick" type="link">
+<GOTO option="3" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object nodiv="yes" id="SHAPE5" expanded="yes" x="1354" y="744" w="52" h="30" z="103" display="frame" begin="0">
+<data><![CDATA[<div class="cl-shape-box"  cl-offset-x="0" cl-offset-y="0"  style="width: 52px; height: 30px; left: -0px; top: -0px; background-image: url('images/xSHAPE5.png'); background-position: 0 0; background-repeat: no-repeat; cursor: pointer;" onclick="CL.Resp.Process({ respid: 'SHAPE5_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"">&nbsp;</div>]]>
+</data>
+<RESPONSE name="SHAPE5_1" event="onclick" type="link">
+<GOTO option="4" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</slides>
+<masters>
+<slide id="SLIDE_MASTER" expanded="yes" sid="1">
+<frames>
+<frame id="FRAME_4" expanded="yes" dur="0" infinite="0">
+<object nodiv="yes" id="SHAPE1" expanded="yes" x="1679" y="380" w="100" h="100" z="0" display="frame" begin="0">
+<data><![CDATA[<div class="cl-shape-box"  cl-offset-x="0" cl-offset-y="0"  style="width: 103px; height: 103px; left: -1px; top: -1px; background-image: url('images/xSHAPE1.png'); background-position: 0 0; background-repeat: no-repeat;"">&nbsp;</div>]]>
+</data>
+</object>
+<object nodiv="yes" id="SHAPE3" expanded="yes" x="0" y="0" w="1920" h="1080" z="1" display="frame" begin="0">
+<data><![CDATA[<div class="cl-shape-box"  cl-offset-x="0" cl-offset-y="0"  style="width: 1923px; height: 1083px; left: -1px; top: -1px; background-image: url('images/xSHAPE3.png'); background-position: 0 0; background-repeat: no-repeat;"">&nbsp;</div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_12" expanded="yes" sid="k">
+<frames>
+<frame id="FRAME_15" expanded="yes" dur="0" infinite="0">
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</masters>
+<methods>
+</methods>
+<params>
+<param objectid="OBJ_21">
+<btn_text>НАЧАТЬ</btn_text>
+<action>go</action>
+<objectid></objectid>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<fs_html></fs_html>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_position>center</bg_position>
+<bg_type>solid</bg_type>
+<bg_color>#FFFFFF</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#FFFFFF</border_color>
+<border_width>1</border_width>
+<border_radius>20</border_radius>
+<shadow_strength>normal</shadow_strength>
+<fs_text></fs_text>
+<font>open_sanssemibold</font>
+<font_custom></font_custom>
+<font_color>#4829F4</font_color>
+<font_style>normal</font_style>
+<font_size>24</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+</param>
+</params>
+<objectives>
+<objective module="yes" id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0"/>
+</objectives>
+<runtimechecks>
+</runtimechecks>
+</module>

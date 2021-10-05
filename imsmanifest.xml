@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- This is a SCORM 1.2 manifest file, created 10/5/2021 4:00:32 PM by ADMIN using CourseLab 210731 -->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" identifier="MANIFEST-506C84E1_13D0_4E90_9DC9_A837EDA9E0C8" version="1.0">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>1.2</schemaversion>
+</metadata>
+<organizations default="внккнкв">
+<organization identifier="внккнкв">
+<title>Антимонопольные риски</title>
+<item identifier="dgg" identifierref="RES1" parameters="?width=1920&amp;height=1080">
+<title>Антимонопольное законовательство</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="RESCOURSEIMAGES" adlcp:scormtype="asset" type="webcontent">
+<file href="courseimages/1blank.gif"/>
+<file href="courseimages/cl-fonts.css"/>
+<file href="courseimages/cl.js"/>
+<file href="courseimages/click1.mp3"/>
+<file href="courseimages/click1.ogg"/>
+<file href="courseimages/click1.swf"/>
+<file href="courseimages/click2.mp3"/>
+<file href="courseimages/click2.ogg"/>
+<file href="courseimages/click2.swf"/>
+<file href="courseimages/click3.mp3"/>
+<file href="courseimages/click3.ogg"/>
+<file href="courseimages/click3.swf"/>
+<file href="courseimages/click4.mp3"/>
+<file href="courseimages/click4.ogg"/>
+<file href="courseimages/click4.swf"/>
+<file href="courseimages/courselab.css"/>
+<file href="courseimages/courselab.js"/>
+<file href="courseimages/cursor_arrow.png"/>
+<file href="courseimages/cursor_click.png"/>
+<file href="courseimages/dummy.swf"/>
+<file href="courseimages/failure1.mp3"/>
+<file href="courseimages/failure1.ogg"/>
+<file href="courseimages/failure1.swf"/>
+<file href="courseimages/failure2.mp3"/>
+<file href="courseimages/failure2.ogg"/>
+<file href="courseimages/failure2.swf"/>
+<file href="courseimages/failure3.mp3"/>
+<file href="courseimages/failure3.ogg"/>
+<file href="courseimages/failure3.swf"/>
+<file href="courseimages/failure4.mp3"/>
+<file href="courseimages/failure4.ogg"/>
+<file href="courseimages/failure4.swf"/>
+<file href="courseimages/jquery-ui.js"/>
+<file href="courseimages/jquery.addons.js"/>
+<file href="courseimages/jquery.js"/>
+<file href="courseimages/legacy.js"/>
+<file href="courseimages/lms.js"/>
+<file href="courseimages/over1.mp3"/>
+<file href="courseimages/over1.ogg"/>
+<file href="courseimages/over1.swf"/>
+<file href="courseimages/over2.mp3"/>
+<file href="courseimages/over2.ogg"/>
+<file href="courseimages/over2.swf"/>
+<file href="courseimages/over3.mp3"/>
+<file href="courseimages/over3.ogg"/>
+<file href="courseimages/over3.swf"/>
+<file href="courseimages/over4.mp3"/>
+<file href="courseimages/over4.ogg"/>
+<file href="courseimages/over4.swf"/>
+<file href="courseimages/progress.gif"/>
+<file href="courseimages/success1.mp3"/>
+<file href="courseimages/success1.ogg"/>
+<file href="courseimages/success1.swf"/>
+<file href="courseimages/success2.mp3"/>
+<file href="courseimages/success2.ogg"/>
+<file href="courseimages/success2.swf"/>
+<file href="courseimages/success3.mp3"/>
+<file href="courseimages/success3.ogg"/>
+<file href="courseimages/success3.swf"/>
+<file href="courseimages/success4.mp3"/>
+<file href="courseimages/success4.ogg"/>
+<file href="courseimages/success4.swf"/>
+<file href="courseimages/webfonts/Open/Open_Font_Family_Apache_License.txt"/>
+<file href="courseimages/webfonts/Open/SemiBold/OpenSans-Semibold.ttf"/>
+<file href="courseimages/webfonts/Open/SemiBold/OpenSans-Semibold.woff"/>
+<file href="courseimages/webfonts/Open/SemiBold/OpenSans-Semibold.woff2"/>
+<file href="courseimages/webfonts/Open/SemiBold/OpenSans-SemiboldItalic.ttf"/>
+<file href="courseimages/webfonts/Open/SemiBold/OpenSans-SemiboldItalic.woff"/>
+<file href="courseimages/webfonts/Open/SemiBold/OpenSans-SemiboldItalic.woff2"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Bold.ttf"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Bold.woff"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Bold.woff2"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-BoldItalic.ttf"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-BoldItalic.woff"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-BoldItalic.woff2"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Italic.ttf"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Italic.woff"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Italic.woff2"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Regular.ttf"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Regular.woff"/>
+<file href="courseimages/webfonts/Roboto/Regular/Roboto-Regular.woff2"/>
+<file href="courseimages/webfonts/Roboto/Roboto_Font_Family_Apache_License.txt"/>
+</resource>
+<resource identifier="RES1" adlcp:scormtype="sco" href="1/start.html" type="webcontent">
+<file href="1/module.js"/>
+<file href="1/start.html"/>
+<file href="1/splash.xml"/>
+<file href="1/runtime.xml"/>
+<file href="1/images/10.png"/>
+<file href="1/images/7.png"/>
+<file href="1/images/9.png"/>
+<file href="1/images/course.css"/>
+<file href="1/images/G.png"/>
+<file href="1/images/Grou.png"/>
+<file href="1/images/Group_229.png"/>
+<file href="1/images/Group_359.png"/>
+<file href="1/images/MSAoMSk_.png"/>
+<file href="1/images/MTEuMSAoMik_.png"/>
+<file href="1/images/MTEuMSAoMyk_.png"/>
+<file href="1/images/MyAoMSkgMQ__.png"/>
+<file href="1/images/MyAoMSk_.png"/>
+<file href="1/images/NCAoMSk_.png"/>
+<file href="1/images/NiAoMSk_.png"/>
+<file href="1/images/NSAoMik_.png"/>
+<file href="1/images/OCAoMik_.png"/>
+<file href="1/images/R3JvdXAgMjI1.png"/>
+<file href="1/images/R3JvdXAgMjI2.png"/>
+<file href="1/images/R3JvdXAgMzY0.png"/>
+<file href="1/images/R3JvdXAgMzY1.png"/>
+<file href="1/images/xSHAPE1.png"/>
+<file href="1/images/xSHAPE3.png"/>
+<file href="1/images/xSHAPE4.png"/>
+<file href="1/images/xSHAPE5.png"/>
+<dependency identifierref="RESCOURSEIMAGES"/>
+</resource>
+</resources>
+</manifest>
